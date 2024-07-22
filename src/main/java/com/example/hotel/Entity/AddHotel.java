@@ -23,11 +23,11 @@ public class AddHotel {
     private String hotelName;
 
 //    ------img
-    @NotBlank
-    private String fileName;
-
-    @NotBlank
-    private String filePath;
+//    @NotBlank
+//    private String fileName;
+//
+//    @NotBlank
+//    private String filePath;
 
 //    -----------img end
 
